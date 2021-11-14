@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/R1n1g4njkOOVFz9Yo0/giphy.gif" aLign="right" width="200" height="200">
+<img src="https://media.giphy.com/media/l46CBPjgCqt5ADs7S/giphy.gif" aLign="right" width="200" height="200">
 
 
 ### Hi there, I'm Elif. :woman:
@@ -11,20 +11,20 @@
 
 ## Reach out to me
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg"/>][linkedin]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/behance.svg"/>][behance]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg"/>][linkedin]&nbsp; &nbsp; &nbsp; 
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/behance.svg"/>][behance]&nbsp; &nbsp; &nbsp; 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg"/>][instagram]
 
-[linkedin]:https://www.linkedin.com/in/elifozdemir95/ </br>
-[behance]: https://www.behance.net/elifozzdemir </br>
-[instagram]: https://www.instagram.com/ux.elif/ </br>
+[linkedin]:https://www.linkedin.com/in/elifozdemir95/
+[behance]: https://www.behance.net/elifozzdemir
+[instagram]: https://www.instagram.com/ux.elif/
 
 <br />
 <br />
 
 ## Tech I Use
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="50" height="50"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="50" height="50">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="50" height="50"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" width="50" height="50"> 
 
 
 <details>
