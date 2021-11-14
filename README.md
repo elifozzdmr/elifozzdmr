@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/l46CBPjgCqt5ADs7S/giphy.gif" aLign="right" width="200" height="200">
+<img src="https://media.giphy.com/media/l46CBPjgCqt5ADs7S/giphy.gif" aLign="right" width="230" height="200">
 
 
 ### Hi there, I'm Elif. :woman:
