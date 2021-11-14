@@ -15,17 +15,16 @@
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/behance.svg"/>][behance]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg"/>][instagram]
 
-[linkedin]:https://www.linkedin.com/in/elifozdemir95/
-[behance]: https://www.behance.net/elifozzdemir
-[instagram]: https://www.instagram.com/ux.elif/
+[linkedin]:https://www.linkedin.com/in/elifozdemir95/ </br>
+[behance]: https://www.behance.net/elifozzdemir </br>
+[instagram]: https://www.instagram.com/ux.elif/ </br>
 
 <br />
 <br />
 
 ## Tech I Use
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="50" height="50">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="50" height="50"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="50" height="50">
 
 
 <details>
