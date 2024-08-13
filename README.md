@@ -6,18 +6,20 @@
 ## Junior UX/UI Designer|Learning CSS :computer:
 
 
-<font color="lightblue"> I am interested in user interface experience and design. </font>
+<font color="lightblue"> 🖇️UI/UX Designer with experience in dealing with customers, user interface design, wireframes, visual designs, flow diagrams, storyboards, site maps and prototypes and working to further develop these experiences. </font>
 
 
 ## Reach out to me
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg"/>][linkedin]&nbsp; &nbsp; &nbsp; 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/behance.svg"/>][behance]&nbsp; &nbsp; &nbsp; 
-[<img height="32" width="32" src="file:///Users/eliforkin/Downloads/medium-round-icon.svg"/>][medium]
+<img height="32" width="32" src="file:///Users/eliforkin/Downloads/medium-round-icon.svg"/>][medium]&nbsp; &nbsp; &nbsp; 
 
 [linkedin]: https://www.linkedin.com/in/elifozdemir95/
 [behance]: https://www.behance.net/eliforkin
-[medium]: https://medium.com/@eliforkin]
+[medium]: https://medium.com/@eliforkin
+[notion]: [https://medium.com/@eliforkin]](https://octagonal-muskox-03e.notion.site/Kaynaklar-64ff79530d124de08e9212543bc42fbb)
+
 
 <br />
 <br />
