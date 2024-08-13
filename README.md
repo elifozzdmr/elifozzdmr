@@ -11,7 +11,7 @@
 
 ## Reach out to me
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg"/>][linkedin]&nbsp; &nbsp; &nbsp; 
+[<img height="32" width="32" style="blue" redsrc="https://unpkg.com/simple-icons@v5/icons/linkedin.svg"/>][linkedin]&nbsp; &nbsp; &nbsp; 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/behance.svg"/>][behance]&nbsp; &nbsp; &nbsp; 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@5.24.0/icons/medium.svg"/>][medium]&nbsp; &nbsp; &nbsp; 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@5.24.0/icons/notion.svg"/>][notion]&nbsp; &nbsp; &nbsp; 
