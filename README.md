@@ -13,7 +13,8 @@
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg"/>][linkedin]&nbsp; &nbsp; &nbsp; 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/behance.svg"/>][behance]&nbsp; &nbsp; &nbsp; 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@5.24.0/icons/linkedin.svg"/>][medium]&nbsp; &nbsp; &nbsp; 
+[<img height="32" width="32" src="[file:///Users/eliforkin/Downloads/medium-brands-solid%20(1).svg](https://unpkg.com/simple-icons@5.24.0/icons/medium.svg)"/>][medium]&nbsp; &nbsp; &nbsp; 
+[<img height="32" width="32" src="[file:///Users/eliforkin/Downloads/medium-brands-solid%20(1).svg](https://unpkg.com/simple-icons@5.24.0/icons/medium.svg](https://unpkg.com/simple-icons@5.24.0/icons/notion.svg)"/>][medium]&nbsp; &nbsp; &nbsp; 
 
 [linkedin]: https://www.linkedin.com/in/elifozdemir95/
 [behance]: https://www.behance.net/eliforkin
