@@ -3,7 +3,7 @@
 
 ### Hi there, I'm Elif. 👩🏻‍💻
 
-## Junior UX/UI Designer|Learning CSS :computer:
+## Junior UX/UI Designer|Learning CSS
 
 
 <font color="lightblue"> 🖇️UI/UX Designer with experience in dealing with customers, user interface design, wireframes, visual designs, flow diagrams, storyboards, site maps and prototypes and working to further develop these experiences. </font>
