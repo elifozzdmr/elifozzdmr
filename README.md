@@ -18,7 +18,7 @@
 [linkedin]: https://www.linkedin.com/in/elifozdemir95/
 [behance]: https://www.behance.net/eliforkin
 [medium]:[https://www.instagram.com/ux.elif/](https://medium.com/@eliforkin)
-[notion]: https://octagonal-muskox-03e.notion.site/Kaynaklar-64ff79530d124de08e9212543bc42fbb 
+
 <br />
 <br />
 
