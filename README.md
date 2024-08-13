@@ -13,7 +13,7 @@
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg"/>][linkedin]&nbsp; &nbsp; &nbsp; 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/behance.svg"/>][behance]&nbsp; &nbsp; &nbsp; 
-[<img height="32" width="32" src="target_blank (https://miro.medium.com/v2/resize:fit:1400/0*zPzAcHbkOUmfNnuB.jpeg)"/>][medium]
+[<img height="32" width="32" src="file:///Users/eliforkin/Downloads/medium-round-icon.svg"/>][medium]
 
 [linkedin]: https://www.linkedin.com/in/elifozdemir95/
 [behance]: https://www.behance.net/eliforkin
